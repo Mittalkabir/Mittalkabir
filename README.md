@@ -1,6 +1,6 @@
 
 
-<img align="right" height="90" src="https://media.giphy.com/media/vwL5nonlNtIfK3wbiy/giphy.gif?cid=ecf05e4752kmpnxswoop5zkc6xqznp7q8g3gdheqkxiubb3i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="60" src="https://media.giphy.com/media/vwL5nonlNtIfK3wbiy/giphy.gif?cid=ecf05e4752kmpnxswoop5zkc6xqznp7q8g3gdheqkxiubb3i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 # 💫 About Me:
 🔭 I’m currently working on Advance disease prediction Web App.  <br>🤝 I’m looking to collaborate on AI projects and open-source contributions.  <br>🧠 I’m looking for help with AI model deployment strategies.  <br>🌱 I’m currently learning advanced Data Science.  <br>💬 Ask me about AI, coding, and Python.  <br>⚡ Fun fact: I love solving mysteries and coding challenges!  
